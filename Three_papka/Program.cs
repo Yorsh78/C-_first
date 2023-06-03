@@ -28,3 +28,7 @@ if (number == 7)
 {
     Console.WriteLine("Воскресение");
 }
+else
+{
+    Console.WriteLine("пукнул в лужу");
+}
