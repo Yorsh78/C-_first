@@ -1,0 +1,15 @@
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\Five_papka\obj\Debug\net6.0\Five_papka.csproj.AssemblyReference.cache
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\Five_papka\obj\Debug\net6.0\Five_papka.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\Five_papka\obj\Debug\net6.0\Five_papka.AssemblyInfoInputs.cache
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\Five_papka\obj\Debug\net6.0\Five_papka.AssemblyInfo.cs
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\Five_papka\obj\Debug\net6.0\Five_papka.csproj.CoreCompileInputs.cache
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\Five_papka\bin\Debug\net6.0\Five_papka.exe
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\Five_papka\bin\Debug\net6.0\Five_papka.deps.json
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\Five_papka\bin\Debug\net6.0\Five_papka.runtimeconfig.json
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\Five_papka\bin\Debug\net6.0\Five_papka.dll
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\Five_papka\bin\Debug\net6.0\Five_papka.pdb
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\Five_papka\obj\Debug\net6.0\Five_papka.dll
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\Five_papka\obj\Debug\net6.0\refint\Five_papka.dll
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\Five_papka\obj\Debug\net6.0\Five_papka.pdb
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\Five_papka\obj\Debug\net6.0\Five_papka.genruntimeconfig.cache
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\Five_papka\obj\Debug\net6.0\ref\Five_papka.dll
