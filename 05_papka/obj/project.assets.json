@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GeekBrains\\004 - Знакомство с языками программирования\\New_C#\\Five_papka\\Five_papka.csproj",
+      "projectUniqueName": "D:\\GeekBrains\\004 - Знакомство с языками программирования\\New_C#\\05_papka\\Five_papka.csproj",
       "projectName": "Five_papka",
-      "projectPath": "D:\\GeekBrains\\004 - Знакомство с языками программирования\\New_C#\\Five_papka\\Five_papka.csproj",
+      "projectPath": "D:\\GeekBrains\\004 - Знакомство с языками программирования\\New_C#\\05_papka\\Five_papka.csproj",
       "packagesPath": "C:\\Users\\Yorsh\\.nuget\\packages\\",
-      "outputPath": "D:\\GeekBrains\\004 - Знакомство с языками программирования\\New_C#\\Five_papka\\obj\\",
+      "outputPath": "D:\\GeekBrains\\004 - Знакомство с языками программирования\\New_C#\\05_papka\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yorsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
