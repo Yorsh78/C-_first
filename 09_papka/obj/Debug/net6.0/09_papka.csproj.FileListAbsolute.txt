@@ -1,0 +1,15 @@
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\09_papka\bin\Debug\net6.0\09_papka.exe
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\09_papka\bin\Debug\net6.0\09_papka.deps.json
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\09_papka\bin\Debug\net6.0\09_papka.runtimeconfig.json
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\09_papka\bin\Debug\net6.0\09_papka.dll
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\09_papka\bin\Debug\net6.0\09_papka.pdb
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\09_papka\obj\Debug\net6.0\09_papka.csproj.AssemblyReference.cache
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\09_papka\obj\Debug\net6.0\09_papka.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\09_papka\obj\Debug\net6.0\09_papka.AssemblyInfoInputs.cache
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\09_papka\obj\Debug\net6.0\09_papka.AssemblyInfo.cs
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\09_papka\obj\Debug\net6.0\09_papka.csproj.CoreCompileInputs.cache
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\09_papka\obj\Debug\net6.0\09_papka.dll
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\09_papka\obj\Debug\net6.0\refint\09_papka.dll
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\09_papka\obj\Debug\net6.0\09_papka.pdb
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\09_papka\obj\Debug\net6.0\09_papka.genruntimeconfig.cache
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\09_papka\obj\Debug\net6.0\ref\09_papka.dll
