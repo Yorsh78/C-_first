@@ -1,0 +1,15 @@
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\DZ_4seminar\Zadacha27\bin\Debug\net6.0\Zadacha27.exe
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\DZ_4seminar\Zadacha27\bin\Debug\net6.0\Zadacha27.deps.json
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\DZ_4seminar\Zadacha27\bin\Debug\net6.0\Zadacha27.runtimeconfig.json
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\DZ_4seminar\Zadacha27\bin\Debug\net6.0\Zadacha27.dll
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\DZ_4seminar\Zadacha27\bin\Debug\net6.0\Zadacha27.pdb
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\DZ_4seminar\Zadacha27\obj\Debug\net6.0\Zadacha27.csproj.AssemblyReference.cache
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\DZ_4seminar\Zadacha27\obj\Debug\net6.0\Zadacha27.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\DZ_4seminar\Zadacha27\obj\Debug\net6.0\Zadacha27.AssemblyInfoInputs.cache
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\DZ_4seminar\Zadacha27\obj\Debug\net6.0\Zadacha27.AssemblyInfo.cs
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\DZ_4seminar\Zadacha27\obj\Debug\net6.0\Zadacha27.csproj.CoreCompileInputs.cache
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\DZ_4seminar\Zadacha27\obj\Debug\net6.0\Zadacha27.dll
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\DZ_4seminar\Zadacha27\obj\Debug\net6.0\refint\Zadacha27.dll
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\DZ_4seminar\Zadacha27\obj\Debug\net6.0\Zadacha27.pdb
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\DZ_4seminar\Zadacha27\obj\Debug\net6.0\Zadacha27.genruntimeconfig.cache
+D:\GeekBrains\004 - Знакомство с языками программирования\New_C#\DZ_4seminar\Zadacha27\obj\Debug\net6.0\ref\Zadacha27.dll
